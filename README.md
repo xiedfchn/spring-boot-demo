@@ -1,5 +1,5 @@
 # spring-boot-demo
-
+Spring Boot is an open-source micro-framework used to build Spring applications with the help of microservices
 
 ## Key Advantages 
 - Fristly, it is based on Java, which is one of the world's most popular programming languages, besides that, Spring Boot can help you to quickly build any applications without having to worry about their safe and correct configuration.
